@@ -3,4 +3,3 @@
 * [Introduction](README.md)
 * [Security Policy](SECURITY.md)
 * [Disclosure Guidelines](disclosure-guidelines.md)
-* [Submit Vulnerability Report](submit-vulnerability-report.md)
