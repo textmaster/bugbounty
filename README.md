@@ -7,7 +7,7 @@ We look forward to working with all security researchers and strive to be respec
 * Reply to all reports
 * Be as transparent as possible, answering all inquiries about our report decisions
 * Award fair value bounties based on CVSS scores
-* Only close reports as `Non Applicable` when the issue reported is listed in the [Known Issues](./#known-issues), [Ineligible Issues](./#ineligible-issues) sections or lacks evidence of a vulnerability
+* Only close reports as `Non Applicable` when the issue reported is listed in the [Known Issues](SECURITY.md#known-issues), [Ineligible Issues](SECURITY.md#ineligible-issues) sections or lacks evidence of a vulnerability
 * Reward any report mistakenly closed as invalid if we later receive and reward the same bug reported by someone else. In these situations, we will reward both security researchers
 * Pay the bounty difference to the duplicate reporter in case the new report demonstrates a higher CVSS score
 
