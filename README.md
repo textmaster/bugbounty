@@ -17,7 +17,7 @@ We've set up a [public GitHub repository](https://github.com/textmaster/bugbount
 
 Open a new draft security advisory and follow the templates, providing as much information as possible about the potential issue you have discovered. The more information you provide, the quicker TextMaster will be able to validate the issue.
 
-If you haven't yet, please remember to review our [Policy](broken-reference) and [Disclosure Guidelines](disclosure-guidelines.md).
+If you haven't yet, please remember to review our [Security Policy](SECURITY.md) and [Disclosure Guidelines](disclosure-guidelines.md).
 
 Use the built-in severity calculator to get your severity vector string. Note that currently, GitHub does not support Temporal and Environmental scores. Therefor, your severity score might be lowered down after submitting your draft according to our policy.
 
