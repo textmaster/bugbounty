@@ -69,6 +69,7 @@ _TextMaster Core_ includes `app.textmaster.com` and `api.textmaster.com`. All ot
 
 The following rules **must** be followed for participating in this program and deem any rewards:
 
+* This program is not open to minors, individuals who are on sanctions lists, or who are in countries (e.g. Cuba, Iran, North Korea, Sudan and Syria) on sanctions lists
 * The use of commercial scanners is prohibited (e.g. Nessus)
 * Rules for reporting an issue must have been followed
 * Do not disclose any issues publicly before they have been resolved
@@ -82,7 +83,7 @@ The following rules **must** be followed for participating in this program and d
 * Failure to follow any of the foregoing rules will disqualify you from participating in this program
 
 {% hint style="info" %}
-**Tips:** Make sure to review our Disclosure Guidelines.
+**Tips:** Make sure to review our [Disclosure Guidelines](disclosure-guidelines.md).
 {% endhint %}
 
 ### Scope
@@ -145,8 +146,6 @@ TextMaster does not consider the following to be eligible vulnerabilities under 
 * Reports of broken links or unclaimed social media accounts (unless chained with an impactful exploit)
 
 ### Miscellaneous
-
-This program is not open to minors, individuals who are on sanctions lists, or who are in countries (e.g. Cuba, Iran, North Korea, Sudan and Syria) on sanctions lists.
 
 You are responsible for any tax implications resulting from payouts, depending on your country of residency and citizenship. TextMaster reserves the right to cancel this program at any time, and the decision to pay a bounty is entirely at our discretion.
 
