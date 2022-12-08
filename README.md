@@ -1,7 +1,3 @@
----
-description: Learn about TextMaster's bug bounty program and policy.
----
-
 # Security Policy
 
 ## Introduction
@@ -175,4 +171,4 @@ TextMaster considers activities conducted consistent with this program to consti
 
 Upon TextMaster's request, you will execute, acknowledge and delivery such further instruments, and will otherwise cooperate and do all other acts as may be necessary or appropriate in order to perfect or carry out the purpose and intent of these terms.
 
-The formula used to calculate the bounty amount is the courtesy of [https://github.com/EdOverflow/bounty-formula](https://github.com/EdOverflow/bounty-formula) and is under MIT license.\
+The formula used to calculate the bounty amount is the courtesy of [https://github.com/EdOverflow/bounty-formula](https://github.com/EdOverflow/bounty-formula) and is under MIT license.
