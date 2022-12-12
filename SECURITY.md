@@ -20,7 +20,7 @@ If you need further clarification of the rules or scope of our bug bounty progra
 
 Our maximum bounty reward is `$5000` for a critical vulnerability.
 
-Bounty amounts will be determined with [CVSS 3.0](https://www.first.org/cvss/calculator/3.0) using Base, Temporal and Environment scores. In most cases, we will only triage and reward vulnerabilities with a CVSS score greater than 0. A CVSS score under 3 will result in a $50 bounty. Scores greater than or equal to 3 will be determined by the calculator.
+Bounty amounts will be determined with [CVSS 3.0](https://www.first.org/cvss/calculator/3.0) using Base, Temporal and Environment scores. In most cases, we will only triage and reward vulnerabilities with a CVSS score greater than 0. A CVSS score under 3 will result in a $100 bounty. Scores greater than or equal to 3 will be determined by the calculator.
 
 In rare cases, we may choose to accept and award a bonus for an issue with a CVSS score of 0 when we see a high potential for future security impact, and make a change as a result of the report.
 
@@ -46,8 +46,8 @@ Which gives the following bounty amounts for various CVSS scores:
 
 | CVSS Score | Bounty Amount ($) |
 | ---------- | ----------------- |
-| 1          | ~~5~~ -> 50       |
-| 2          | ~~40~~ -> 50      |
+| 1          | ~~5~~ -> 100      |
+| 2          | ~~40~~ -> 100     |
 | 3          | 135               |
 | 4          | 320               |
 | 5          | 625               |
