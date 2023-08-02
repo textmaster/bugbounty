@@ -125,6 +125,7 @@ The following vulnerabilities have already been reported and triaged, and won't 
 * Password reset tokens not expiring when changing email address
 * Reflected XSS that requires full control of an HTTP header, such as `Referer`, `Host`, etc.
 * CSRF for Login or Logout - Any login / logout CSRF will be ineligible unless it is chained together with another vulnerability to demonstrate impact
+* CAPTCHA replay attacks
 
 ### Ineligible Issues
 
